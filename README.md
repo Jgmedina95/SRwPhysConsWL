@@ -1,6 +1,7 @@
 
 
 # Symbolic Regression with physical constraints
+[![DOI](https://zenodo.org/badge/519539286.svg)](https://doi.org/10.5281/zenodo.14218373)
 
 Symbolic Regression is a multi-objective optimization machine learning technique used to fit tabular data to symbolic equations, trying to find the most fit equation while mainting low complexity. In this repository Evolutionary Symbolic Regression is performed. 
 
